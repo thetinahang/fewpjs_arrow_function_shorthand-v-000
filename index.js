@@ -1,3 +1,3 @@
 function divide(a, b) {
-  return a/bl
+  return a/b;
 }
